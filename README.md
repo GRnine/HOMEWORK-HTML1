@@ -1,6 +1,9 @@
 # HOMEWORK-HTML1
 CodeCamp online 8
 นายกฤษกานต์ รอดบุตร
+
+https://grnine.github.io/HOMEWORK-HTML1/
+
 "Homework1
 1. สร้างหน้า index.html เป็น homepage 
 - มีภาพที่แสดงความเป็นตัวเอง และ motto ประจำตัว
@@ -14,4 +17,4 @@ CodeCamp online 8
 - ชื่อ-นามสกุล,​ ชื่อเล่น,เลขที่, ชื่อกลุ่ม,​ เบอร์โทร, site(github.io) 
 - มี link ไปยัง 2 หน้าที่เหลือ (index.html + profile.html)
 4. เมื่อเรียบร้อยแล้ว ให้ส่ง web site นี้ขึ้น github.io ของตัวเอง.
-https://grnine.github.io/HOMEWORK-HTML1/
+
